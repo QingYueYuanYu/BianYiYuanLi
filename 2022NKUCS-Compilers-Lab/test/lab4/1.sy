@@ -1,0 +1,12 @@
+int a;
+
+int main()
+{
+    int a;
+    a = 1 + 2;
+    010;
+    0xAa;
+    if(a < 5)
+        return 1;
+    return 0;
+}

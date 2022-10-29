@@ -1,0 +1,34 @@
+[DEBUG LAB4]: 	INT        int        1          0         
+[DEBUG LAB4]: 	ID         a          1          4          1         
+[DEBUG LAB4]: 	SEMICOLON  ;          1          5         
+[DEBUG LAB4]: 	INT        int        3          0         
+[DEBUG LAB4]: 	ID         main       3          4          2         
+[DEBUG LAB4]: 	LPAREN     (          3          8         
+[DEBUG LAB4]: 	RPAREN     )          3          9         
+[DEBUG LAB4]: 	LBRACE     {          4          0         
+[DEBUG LAB4]: 	INT        int        5          4         
+[DEBUG LAB4]: 	ID         a          5          8          3         
+[DEBUG LAB4]: 	SEMICOLON  ;          5          9         
+[DEBUG LAB4]: 	ID         a          6          4          3         
+[DEBUG LAB4]: 	ASSIGN     =          6          6         
+[DEBUG LAB4]: 	DECIMAL    1          6          8         
+[DEBUG LAB4]: 	ADD        +          6          10        
+[DEBUG LAB4]: 	DECIMAL    2          6          12        
+[DEBUG LAB4]: 	SEMICOLON  ;          6          13        
+[DEBUG LAB4]: 	OCTDECIMAL 8          7          4         
+[DEBUG LAB4]: 	SEMICOLON  ;          7          7         
+[DEBUG LAB4]: 	HEXDECIMAL 170        8          4         
+[DEBUG LAB4]: 	SEMICOLON  ;          8          8         
+[DEBUG LAB4]: 	IF         if         9          4         
+[DEBUG LAB4]: 	LPAREN     (          9          6         
+[DEBUG LAB4]: 	ID         a          9          7          3         
+[DEBUG LAB4]: 	LESS       <          9          9         
+[DEBUG LAB4]: 	DECIMAL    5          9          11        
+[DEBUG LAB4]: 	RPAREN     )          9          12        
+[DEBUG LAB4]: 	RETURN     return     10         8         
+[DEBUG LAB4]: 	DECIMAL    1          10         15        
+[DEBUG LAB4]: 	SEMICOLON  ;          10         16        
+[DEBUG LAB4]: 	RETURN     return     11         4         
+[DEBUG LAB4]: 	DECIMAL    0          11         11        
+[DEBUG LAB4]: 	SEMICOLON  ;          11         12        
+[DEBUG LAB4]: 	RBRACE     }          12         0         
